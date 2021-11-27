@@ -1,0 +1,10 @@
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\RunningProcessKiller\bin\Debug\RunningProcessKiller.exe.config
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\RunningProcessKiller\bin\Debug\RunningProcessKiller.exe
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\RunningProcessKiller\bin\Debug\RunningProcessKiller.pdb
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\RunningProcessKiller\obj\Debug\RunningProcessKiller.csproj.AssemblyReference.cache
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\RunningProcessKiller\obj\Debug\RunningProcessKiller.Form1.resources
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\RunningProcessKiller\obj\Debug\RunningProcessKiller.Properties.Resources.resources
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\RunningProcessKiller\obj\Debug\RunningProcessKiller.csproj.GenerateResource.cache
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\RunningProcessKiller\obj\Debug\RunningProcessKiller.csproj.CoreCompileInputs.cache
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\RunningProcessKiller\obj\Debug\RunningProcessKiller.exe
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\RunningProcessKiller\obj\Debug\RunningProcessKiller.pdb
